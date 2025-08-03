@@ -1,4 +1,8 @@
+django
+gunicorn
+whitenoise  # for serving static files
 numpy
+pandas
 requests
 scikit-learn
 pytz
