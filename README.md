@@ -5,7 +5,13 @@ A sophisticated weather forecasting application built with Python and Django tha
 ## Description
 
 Weather-forecast-2025 is a web-based application that combines traditional weather data analysis with machine learning to deliver precise weather forecasts. The application processes historical weather data and uses advanced prediction models to forecast weather conditions.
+## Demo 
 
+https://weather-forecast-2025.onrender.com/
+
+Hosted on render
+
+Note: it takes a min to come on due to the free resources plan i'm using 
 ## Tech Stack
 
 ### Backend
