@@ -106,7 +106,7 @@ def weather_view(request):
         current_weather = get_current_weather(city)
         
         # Read historical data
-        csv_path = os.path.join('C:\\Users\\HP\\WeatherForcast Project\\weather.csv')
+        csv_path ='https://raw.githubusercontent.com/Newbie4newthings/Weather-forecast-2025/main/weather.csv'
         historical_data = read_historical_data(csv_path)
         
         # Prepare data for rain prediction
