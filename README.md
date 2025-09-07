@@ -21,6 +21,10 @@ Weather-forecast-2025 is a web-based application that combines traditional weath
 - JavaScript
 - Django Templates
 
+## Demo
+![App Screenshot](image.png)
+ [Link To live app](https://weather-forecast-2025.onrender.com/)
+ 
 ## Features
 
 - Real-time weather forecasting
@@ -115,3 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Weather data providers
 - Django community
 - Python community
+
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Django](https://img.shields.io/badge/django-5.2.3-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
